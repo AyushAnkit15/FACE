@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #fff; /* Adjust background color as needed */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow */
+  }
+  
+  .header-logo img {
+    width: 100px; /* Adjust logo width as needed */
+  }
+  
+  .header-time {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #555; /* Adjust text color as needed */
+  }
